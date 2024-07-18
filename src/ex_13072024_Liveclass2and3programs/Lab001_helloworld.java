@@ -1,4 +1,4 @@
-package ex_13072024;
+package ex_13072024_Liveclass2and3programs;
 
 public class Lab001_helloworld {
 
