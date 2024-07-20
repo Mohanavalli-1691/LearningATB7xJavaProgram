@@ -9,5 +9,7 @@ public class Lab044_matches {
         System.out.println("catfish".matches(regex));
         System.out.println("doggy bag".matches(regex));
         System.out.println("|".matches(regex));
+
+        System.out.println((10-4)+3*4);
     }
 }
